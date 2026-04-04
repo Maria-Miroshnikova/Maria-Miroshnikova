@@ -1,6 +1,6 @@
 ## Привет!
 
-Я начинающий Frontend-разработчик (React, Typescript).
+Я начинающий Frontend-разработчик
 
 💻 Технологии: 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
