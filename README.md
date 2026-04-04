@@ -4,9 +4,9 @@
 
 ## Опыт: учебные проекты
 ### Frontend
-- [Сайт "Модерация объявлений" / React, TypeScript, Next.js (2025-2026)](https://github.com/Maria-Miroshnikova/content-moderation-app)
-- [Сайт "Карта свободных мест общежитий СПбГУ" / React, Typescript (2022)](https://gitlab.com/dormitoryms/client)
-- [Сайт знакомств "Soulmate" / React, TypeScript (2022)](https://github.com/Maria-Miroshnikova/soulmate)
+- [**Сайт "Модерация объявлений"** / React, TypeScript, Next.js (2025-2026)](https://github.com/Maria-Miroshnikova/content-moderation-app)
+- [**Сайт "Карта свободных мест общежитий СПбГУ"** / React, Typescript (2022)](https://gitlab.com/dormitoryms/client)
+- [**Сайт знакомств "Soulmate" / React, TypeScript** (2022)](https://github.com/Maria-Miroshnikova/soulmate)
   
 ### Другое
 - [Blender-аддон "Painted Normal Map" / Python (2024)](https://github.com/Maria-Miroshnikova/Blender-addon-painted-normal-map)
@@ -14,9 +14,9 @@
 - [Android-приложение "История болезни пациента" / Java (2021)](https://github.com/Maria-Miroshnikova/android-Health-Story)
 
 ## Образование
-- **Санкт-Петербургский государственный университет (2020-2024)**  
+- **Санкт-Петербургский государственный университет (2020 - 2024)**  
   <small>«Фундаментальная информатика и информационные технологии», Бакалавр</small>
-- **ИТМО (2024-2026)**  
+- **ИТМО (2024 - настоящее время)**  
   <small>«Технологии разработки компьютерных игр», Магистр</small>
 
 <!--
