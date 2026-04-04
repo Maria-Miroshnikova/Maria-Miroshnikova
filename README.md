@@ -8,7 +8,7 @@
   <small>Публичное Тех Задание Авито</small>
 - [**Сайт "Карта свободных мест общежитий СПбГУ"** / React, Typescript (2022)](https://gitlab.com/dormitoryms/client)  
   <small>Практика в университете</small>
-- [**Сайт знакомств "Soulmate" / React, TypeScript** (2022)](https://github.com/Maria-Miroshnikova/soulmate)  
+- [**Сайт знакомств "Soulmate"** / React, TypeScript (2022)](https://github.com/Maria-Miroshnikova/soulmate)  
   <small>Практика в университете</small>
   
 ### Другое
