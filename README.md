@@ -25,7 +25,7 @@
 - [**Blender-аддон "Painted Normal Map"** / Python (2024)](https://github.com/Maria-Miroshnikova/Blender-addon-painted-normal-map)  
   <small>Дипломная работа (бакалавр)</small>
 - [**PC-игра "Jeludibox"** / Unreal Engine 5 blueprints (2024)](https://govorit-u-kornei.itch.io/jeludibox)
-- [**Android-приложение "История болезни пациента"** / Java (2021)](https://github.com/Maria-Miroshnikova/android-Health-Story)
+- [**Android-приложение "История болезни пациента"** / Java (2021)](https://github.com/Maria-Miroshnikova/android-Health-Story)  
   <small>Практика в университете</small>
 
 ---
