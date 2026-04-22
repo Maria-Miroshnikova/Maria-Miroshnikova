@@ -15,11 +15,8 @@
 ## Опыт: учебные проекты
 ### Frontend
 - [**Сайт "Модерация объявлений"** / React, TypeScript, Next.js (2025-2026)](https://github.com/Maria-Miroshnikova/content-moderation-app)  
-  <small>Публичное Тех Задание Авито</small>
-- [**Сайт "Карта свободных мест общежитий СПбГУ"** / React, Typescript (2022)](https://gitlab.com/dormitoryms/client)  
-  <small>Практика в университете</small>
+- [**Сайт "Карта свободных мест общежитий"** / React, Typescript (2022)](https://gitlab.com/dormitoryms/client)  
 - [**Сайт знакомств "Soulmate"** / React, TypeScript (2022)](https://github.com/Maria-Miroshnikova/soulmate)  
-  <small>Практика в университете</small>
   
 ### Другое
 - [**Blender-аддон "Painted Normal Map"** / Python (2024)](https://github.com/Maria-Miroshnikova/Blender-addon-painted-normal-map)  
