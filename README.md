@@ -12,7 +12,7 @@
 
 ---
 
-## Опыт: учебные проекты
+## Опыт
 ### Frontend
 - [**Сайт "Модерация объявлений"** / React, TypeScript, Next.js (2025-2026)](https://github.com/Maria-Miroshnikova/content-moderation-app)  
 - [**Сайт "Карта свободных мест общежитий"** / React, Typescript (2022)](https://gitlab.com/dormitoryms/client)  
